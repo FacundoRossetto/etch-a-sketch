@@ -12,4 +12,8 @@
     height: 500px;
 }
 
+.paint:hover{
+    background-color: black;
+}
+
 
