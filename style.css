@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+header {
+    background-color: orange;
+}
+
 .grid {
     display: flex;
     flex-direction: column;
@@ -14,6 +18,10 @@
 
 .paint:hover{
     background-color: black;
+}
+
+footer {
+    background-color: orange;
 }
 
 
