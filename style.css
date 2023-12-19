@@ -20,8 +20,23 @@ header {
     background-color: black;
 }
 
+.pop-up {
+    padding: 20px;
+    background-color: pink;
+    border: 2px solid green;
+}
+
+.size {
+    display: flex;
+    padding: 10px 0px;
+}
+
 footer {
     background-color: orange;
+}
+
+.hidden {
+    display: none;
 }
 
 
